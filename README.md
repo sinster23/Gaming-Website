@@ -6,7 +6,9 @@
 
 ## 🔥 Demo Video  
 🎥 Watch the live demo:  
-[![Watch the video](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing)  
+<video controls width="700">
+  <source src="https://github.com/sinster23/Screenshots/blob/main/gaming-website/Gaming%20Website%20-%20Google%20Chrome%202025-03-25%2022-23-47.mp4" type="video/mp4">
+</video> 
 
 Click the image above to view the **full recording** of the website in action!
 
