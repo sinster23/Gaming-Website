@@ -27,7 +27,7 @@
 ## 📂 Video & Images  
 Since the **video and images** are large, they are stored on Google Drive. You can download them from the link below:  
 
-📌 **Download assets:** [Google Drive Link](https://drive.google.com/drive/folders/YOUR_DRIVE_FOLDER_ID?usp=sharing)  
+📌 **Download assets:** [Google Drive Link](https://drive.google.com/drive/folders/12Fxfo67YkBW-oz8QpCj0_lrqPqfbocJ0?usp=sharing)  
 
 ---
 
