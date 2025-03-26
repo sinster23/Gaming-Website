@@ -10,7 +10,7 @@
 ---
 
 <div >
-  <img src="https://github.com/sinster23/Screenshots/blob/main/gaming-website/Gaming%20Website-mh%20(1).png" alt="Screenshot 1" width="400" height="800"> 
+  <img src="https://github.com/sinster23/Screenshots/blob/main/gaming-website/Gaming%20Website-mh%20(1).png" alt="Screenshot 1" width="600"> 
   <img src="https://github.com/sinster23/Screenshots/blob/main/gaming-website/Gaming%20Website-mh.png" alt="Screenshot 2" width="400" height="800">  
 </div>
 
