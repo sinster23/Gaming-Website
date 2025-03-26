@@ -5,11 +5,7 @@
 ---
 
 ## 🔥 Demo Video  
-🎥 Watch the live demo:  
-
-<iframe src="https://drive.google.com/file/d/19WN7shDh8Xt-2solf9Cg2cTr2uqs6CMC/preview" width="700" height="400"></iframe>
-
-Click the image above to view the **full recording** of the website in action!
+🎥 Watch the live demo:  https://drive.google.com/file/d/19WN7shDh8Xt-2solf9Cg2cTr2uqs6CMC/preview
 
 ---
 
