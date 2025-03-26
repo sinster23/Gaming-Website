@@ -7,7 +7,7 @@
 ## 🔥 Demo Video  
 🎥 Watch the live demo:  
 <video controls width="700">
-  <source src="https://raw.githubusercontent.com/sinster23/Screenshots/main/gaming-website/Gaming%20Website%20-%20Google%20Chrome%202025-03-25%2022-23-47.mp4" type="video/mp4">
+  <source src="https://github.com/sinster23/Screenshots/raw/refs/heads/main/gaming-website/Gaming%20Website%20-%20Google%20Chrome%202025-03-25%2022-23-47.mp4" type="video/mp4">
 </video>
 
 
