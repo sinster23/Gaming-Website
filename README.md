@@ -1,6 +1,6 @@
 # 🎮 Gaming Website
 
-🚀 A fully responsive **Gaming Website** built using **pure HTML, CSS, and JavaScript**. This website showcases gaming content, including **videos and images**. The website features a popular gacha game 'Wuthering Waves'. Feel free to customise the designs and animations as you desire.
+🚀 A fully responsive **Gaming Website** built using **pure HTML and CSS**. This website showcases gaming content, including **videos and images**. The website features a popular gacha game 'Wuthering Waves'. Feel free to customise the designs and animations as you desire.
 
 ---
 
